@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="4DF27854-548B-4FD5-B950-DB919CB0FF21" ModuleId="TyreDegradationSimulation.Views" />
+  <Module PersistentId="13DC01CE-406C-42D1-A17C-9D009EE4AA0A" ModuleId="TyreDegradationSimulation.ViewModels" />
+</Modules>

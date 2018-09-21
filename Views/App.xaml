@@ -1,0 +1,45 @@
+﻿<Application 
+    x:Class="Views.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:system="clr-namespace:System;assembly=mscorlib"
+    Startup="App_OnStartup">
+    <Application.Resources>
+        <Brush x:Key="BackgroundBrush">#FFCC33</Brush>
+        <system:Int32 x:Key="Application.Width">750</system:Int32>
+        <system:Int32 x:Key="Application.Height">680</system:Int32>
+        <system:Int32 x:Key="Selections.ColumnWidth">366</system:Int32>
+        <system:Int32 x:Key="Selections.ComboBox.Width">190</system:Int32>
+        <system:Int32 x:Key="TextBlock.TagStyle.Width">105</system:Int32>
+        <system:Int32 x:Key="LowThresholdValue">1000</system:Int32>
+        <system:Int32 x:Key="HighThresholdValue">3000</system:Int32>
+        
+        <Style x:Key="TextBlock.HeaderStyle" TargetType="{x:Type TextBlock}">
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="TextAlignment" Value="Center"/>
+        </Style>
+        <Style x:Key="TextBlock.BigHeaderStyle" TargetType="{x:Type TextBlock}" BasedOn="{StaticResource TextBlock.HeaderStyle}">
+            <Setter Property="FontSize" Value="24"/>
+        </Style>
+        <Style x:Key="TextBlock.BigBoldHeaderStyle" TargetType="{x:Type TextBlock}" BasedOn="{StaticResource TextBlock.BigHeaderStyle}">
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+        <Style x:Key="TextBlock.TagStyle" TargetType="{x:Type TextBlock}" BasedOn="{StaticResource TextBlock.BigBoldHeaderStyle}">
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Width" Value="{Binding Source={StaticResource TextBlock.TagStyle.Width}}"/>
+        </Style>
+        <Style x:Key="TextBlock.RightAlignedTagStyle" TargetType="{x:Type TextBlock}" BasedOn="{StaticResource TextBlock.TagStyle}">
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+            <Setter Property="TextAlignment" Value="Right"/>
+            <Setter Property="Margin" Value="0 0 5 0"/>
+        </Style>
+        <Style x:Key="TextBlock.LeftAlignedNormalWeightTagStyle" TargetType="{x:Type TextBlock}" BasedOn="{StaticResource TextBlock.TagStyle}">
+            <Setter Property="FontWeight" Value="Normal"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="Margin" Value="20 0 0 0"/>
+        </Style>
+    </Application.Resources>
+</Application>

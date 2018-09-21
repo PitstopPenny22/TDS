@@ -1,0 +1,24 @@
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\WpfCustomControls\bin\Debug\WpfCustomControls.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\WpfCustomControls\bin\Debug\WpfCustomControls.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\WpfCustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\WpfCustomControls\obj\Debug\WpfCustomControls_MarkupCompile.cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\WpfCustomControls\obj\Debug\WpfCustomControls_MarkupCompile.lref
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\WpfCustomControls\obj\Debug\Themes\Generic.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\WpfCustomControls\obj\Debug\WpfCustomControls.g.resources
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\WpfCustomControls\obj\Debug\WpfCustomControls.Properties.Resources.resources
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\WpfCustomControls\obj\Debug\WpfCustomControls.csproj.GenerateResource.Cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\WpfCustomControls\obj\Debug\WpfCustomControls.csproj.CoreCompileInputs.cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\WpfCustomControls\obj\Debug\WpfCustomControls.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\WpfCustomControls\obj\Debug\WpfCustomControls.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\WpfCustomControls\bin\Debug\WpfCustomControls.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\WpfCustomControls\bin\Debug\WpfCustomControls.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\WpfCustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\WpfCustomControls\obj\Debug\WpfCustomControls_MarkupCompile.cache
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\WpfCustomControls\obj\Debug\WpfCustomControls_MarkupCompile.lref
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\WpfCustomControls\obj\Debug\Themes\Generic.baml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\WpfCustomControls\obj\Debug\WpfCustomControls.g.resources
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\WpfCustomControls\obj\Debug\WpfCustomControls.Properties.Resources.resources
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\WpfCustomControls\obj\Debug\WpfCustomControls.csproj.GenerateResource.cache
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\WpfCustomControls\obj\Debug\WpfCustomControls.csproj.CoreCompileInputs.cache
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\WpfCustomControls\obj\Debug\WpfCustomControls.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\WpfCustomControls\obj\Debug\WpfCustomControls.pdb

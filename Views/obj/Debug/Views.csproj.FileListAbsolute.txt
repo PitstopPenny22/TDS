@@ -1,0 +1,288 @@
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\Views.exe.config
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\Views.exe
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\Views.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\Autofac.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\Shared.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\ViewModels.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\ViewModelUtils.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\WpfCustomControls.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\Data.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\Shared.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\ViewModels.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\ViewModelUtils.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\WpfCustomControls.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\Autofac.xml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\bin\Debug\Data.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Views.csprojResolveAssemblyReference.cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Results\ValueStateView.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\App.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\MainWindow.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Results\LabelValueStateView.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Results\ResultsView.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Results\TyreResultView.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Results\ValueStateView.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Selections\SelectionsView.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Selections\TyrePlacementSelectionView.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\App.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Views_MarkupCompile.cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Views_MarkupCompile.lref
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\MainWindow.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Results\LabelValueStateView.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Results\ResultsView.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Results\TyreResultView.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Selections\SelectionsView.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Selections\TyrePlacementSelectionView.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Views.g.resources
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Views.Properties.Resources.resources
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Views.csproj.GenerateResource.Cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Views.exe
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Views\obj\Debug\Views.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\Resources\TrackDegradationCoefficients.txt
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\Resources\TyresXML.xml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\Views.exe.config
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\Views.exe
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\Views.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\Autofac.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\Shared.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModels.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModelUtils.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\WpfCustomControls.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\Data.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\Shared.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModels.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModelUtils.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\WpfCustomControls.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\Autofac.xml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\Data.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Views.csprojResolveAssemblyReference.cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ValueStateView.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\App.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\MainWindow.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Results\LabelValueStateView.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ResultsView.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Results\TyreResultView.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ValueStateView.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\SelectionsView.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\TyrePlacementSelectionView.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\App.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Views_MarkupCompile.cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Views_MarkupCompile.lref
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\MainWindow.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Results\LabelValueStateView.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ResultsView.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Results\TyreResultView.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\SelectionsView.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\TyrePlacementSelectionView.baml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Views.g.resources
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Views.Properties.Resources.resources
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Views.csproj.GenerateResource.Cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Views.exe
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\obj\Debug\Views.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\Resources\TrackDegradationCoefficients.txt
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\Resources\TyresXML.xml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\Views.exe.config
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\Views.exe
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\Views.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\Autofac.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\Shared.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModels.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModelUtils.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\WpfCustomControls.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\Data.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\Shared.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModels.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModelUtils.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\WpfCustomControls.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\Autofac.xml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\bin\Debug\Data.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Views.csprojAssemblyReference.cache
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ValueStateView.baml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\App.baml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\MainWindow.g.cs
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Results\LabelValueStateView.g.cs
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ResultsView.g.cs
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Results\TyreResultView.g.cs
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ValueStateView.g.cs
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\SelectionsView.g.cs
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\TyrePlacementSelectionView.g.cs
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\App.g.cs
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Views_MarkupCompile.cache
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Views_MarkupCompile.lref
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\MainWindow.baml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Results\LabelValueStateView.baml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ResultsView.baml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Results\TyreResultView.baml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\SelectionsView.baml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\TyrePlacementSelectionView.baml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Views.g.resources
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Views.Properties.Resources.resources
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Views.csproj.GenerateResource.cache
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Views.csproj.CopyComplete
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Views.exe
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Views\obj\Debug\Views.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\Resources\TrackDegradationCoefficients.txt
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\Resources\TyresXML.xml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\Views.exe.config
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\Views.exe
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\Views.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\Autofac.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\Shared.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModels.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModelUtils.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\WpfCustomControls.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\Data.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\Shared.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModels.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModelUtils.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\WpfCustomControls.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\Autofac.xml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\bin\Debug\Data.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Views.csprojResolveAssemblyReference.cache
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ValueStateView.baml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\App.baml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\MainWindow.g.cs
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Results\LabelValueStateView.g.cs
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ResultsView.g.cs
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Results\TyreResultView.g.cs
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ValueStateView.g.cs
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\SelectionsView.g.cs
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\TyrePlacementSelectionView.g.cs
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\App.g.cs
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Views_MarkupCompile.cache
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Views_MarkupCompile.lref
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\MainWindow.baml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Results\LabelValueStateView.baml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ResultsView.baml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Results\TyreResultView.baml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\SelectionsView.baml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\TyrePlacementSelectionView.baml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Views.g.resources
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Views.Properties.Resources.resources
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Views.csproj.GenerateResource.Cache
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Views.exe
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\Views\obj\Debug\Views.pdb
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\Resources\TrackDegradationCoefficients.txt
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\Resources\TyresXML.xml
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\Views.exe.config
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\Views.exe
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\Views.pdb
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\Autofac.dll
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\Shared.dll
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\System.Windows.Interactivity.dll
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModels.dll
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModelUtils.dll
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\WpfCustomControls.dll
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.dll
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\Data.dll
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\Shared.pdb
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModels.pdb
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\ViewModelUtils.pdb
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\WpfCustomControls.pdb
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\Autofac.xml
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\GalaSoft.MvvmLight.xml
+E:\TyreDegradationSimulation - edited\Views\bin\Debug\Data.pdb
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Views.csprojResolveAssemblyReference.cache
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ValueStateView.baml
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\App.baml
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\MainWindow.g.cs
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Results\LabelValueStateView.g.cs
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ResultsView.g.cs
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Results\TyreResultView.g.cs
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ValueStateView.g.cs
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\SelectionsView.g.cs
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\TyrePlacementSelectionView.g.cs
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\App.g.cs
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Views_MarkupCompile.cache
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Views_MarkupCompile.lref
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\MainWindow.baml
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Results\LabelValueStateView.baml
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Results\ResultsView.baml
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Results\TyreResultView.baml
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\SelectionsView.baml
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Selections\TyrePlacementSelectionView.baml
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Views.g.resources
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Views.Properties.Resources.resources
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Views.csproj.GenerateResource.Cache
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Views.exe
+E:\TyreDegradationSimulation - edited\Views\obj\Debug\Views.pdb
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\Resources\TrackDegradationCoefficients.txt
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\Resources\TyresXML.xml
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\Views.exe.config
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\Views.exe
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\Views.pdb
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\Autofac.dll
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\Shared.dll
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\System.Windows.Interactivity.dll
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\ViewModels.dll
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\ViewModelUtils.dll
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\WpfCustomControls.dll
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\GalaSoft.MvvmLight.dll
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\Data.dll
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\Shared.pdb
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\ViewModels.pdb
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\ViewModelUtils.pdb
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\WpfCustomControls.pdb
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\Autofac.xml
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\GalaSoft.MvvmLight.xml
+E:\TyreDegradationSimulation - DS (revisited)\Views\bin\Debug\Data.pdb
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Views.csprojResolveAssemblyReference.cache
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Results\ValueStateView.baml
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\App.baml
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\MainWindow.g.cs
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Results\LabelValueStateView.g.cs
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Results\ResultsView.g.cs
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Results\TyreResultView.g.cs
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Results\ValueStateView.g.cs
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Selections\SelectionsView.g.cs
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Selections\TyrePlacementSelectionView.g.cs
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\App.g.cs
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Views_MarkupCompile.cache
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Views_MarkupCompile.lref
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\MainWindow.baml
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Results\LabelValueStateView.baml
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Results\ResultsView.baml
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Results\TyreResultView.baml
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Selections\SelectionsView.baml
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Selections\TyrePlacementSelectionView.baml
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Views.g.resources
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Views.Properties.Resources.resources
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Views.csproj.GenerateResource.Cache
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Views.exe
+E:\TyreDegradationSimulation - DS (revisited)\Views\obj\Debug\Views.pdb

@@ -1,0 +1,115 @@
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\ViewsTests.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\ViewsTests.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\ViewModels.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\ViewModelUtils.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\Views.exe
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\Data.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\Shared.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\ViewModels.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\ViewModelUtils.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\Views.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\Views.exe.config
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\Data.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\bin\Debug\Shared.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\obj\Debug\ViewsTests.csprojResolveAssemblyReference.cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\obj\Debug\ViewsTests.csproj.CoreCompileInputs.cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\obj\Debug\ViewsTests.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\ViewsTests\obj\Debug\ViewsTests.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Resources\TrackDegradationCoefficients.txt
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Resources\TyresXML.xml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewsTests.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewsTests.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModels.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModelUtils.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Views.exe
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Data.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Shared.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModels.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModelUtils.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Views.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Views.exe.config
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Data.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Shared.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.csprojResolveAssemblyReference.cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.csproj.CoreCompileInputs.cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Autofac.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Autofac.xml
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Resources\TrackDegradationCoefficients.txt
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Resources\TyresXML.xml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewsTests.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewsTests.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModels.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModelUtils.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Views.exe
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Autofac.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Data.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Shared.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModels.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModelUtils.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Views.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Views.exe.config
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Autofac.xml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Data.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Shared.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.csprojAssemblyReference.cache
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.csproj.CoreCompileInputs.cache
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.csproj.CopyComplete
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewsTests.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewsTests.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModels.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModelUtils.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Views.exe
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Autofac.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Data.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Shared.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModels.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModelUtils.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Views.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Views.exe.config
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Autofac.xml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Data.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Shared.pdb
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.csprojResolveAssemblyReference.cache
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.csproj.CoreCompileInputs.cache
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.dll
+C:\Users\Dorielle\Downloads\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.pdb
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewsTests.dll
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewsTests.pdb
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModels.dll
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModelUtils.dll
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Views.exe
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Autofac.dll
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\GalaSoft.MvvmLight.dll
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Data.dll
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Shared.dll
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModels.pdb
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\ViewModelUtils.pdb
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Views.pdb
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Views.exe.config
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Autofac.xml
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\GalaSoft.MvvmLight.xml
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Data.pdb
+E:\TyreDegradationSimulation - edited\ViewsTests\bin\Debug\Shared.pdb
+E:\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.csprojResolveAssemblyReference.cache
+E:\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.csproj.CoreCompileInputs.cache
+E:\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.dll
+E:\TyreDegradationSimulation - edited\ViewsTests\obj\Debug\ViewsTests.pdb

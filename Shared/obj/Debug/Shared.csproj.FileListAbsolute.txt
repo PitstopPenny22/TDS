@@ -1,0 +1,11 @@
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Shared\bin\Debug\Shared.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Shared\bin\Debug\Shared.pdb
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Shared\obj\Debug\Shared.dll
+C:\Users\Dorielle\Desktop\Dev\TyreDegradationSimulation - Dorielle Scicluna\Solution\TyreDegradationSimulation\Shared\obj\Debug\Shared.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Shared\bin\Debug\Shared.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Shared\bin\Debug\Shared.pdb
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Shared\obj\Debug\Shared.csprojAssemblyReference.cache
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Shared\obj\Debug\Shared.dll
+C:\Users\sciclunad\Downloads\TyreDegradationSimulation - edited2\TyreDegradationSimulation - edited\Shared\obj\Debug\Shared.pdb

@@ -1,0 +1,64 @@
+﻿<UserControl
+    x:Class="Views.Selections.SelectionsView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:viewModels="clr-namespace:ViewModels;assembly=ViewModels"
+    xmlns:selections="clr-namespace:Views.Selections"
+    mc:Ignorable="d" 
+    d:DesignHeight="250" 
+    d:DesignWidth="750"
+    Background="White"
+    BorderBrush="Black"
+    BorderThickness="1"
+    Margin="1"
+    d:DataContext="{d:DesignInstance viewModels:MainViewModel, IsDesignTimeCreatable=False}">
+    <UserControl.Resources>
+        <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource TextBlock.RightAlignedTagStyle}"/>
+    </UserControl.Resources>
+    <StackPanel Orientation="Vertical">
+        <TextBlock Text="Selections" Style="{StaticResource TextBlock.BigBoldHeaderStyle}" />
+        <ItemsControl 
+            ItemsSource="{Binding CurrentSelectionViewModel.AllTyrePlacements}" 
+            ScrollViewer.VerticalScrollBarVisibility="Disabled" 
+            ComboBox.SelectionChanged="AllowedTyresComboBox_OnSelectionChanged">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate DataType="{x:Type viewModels:TyrePlacementViewModel}">
+                    <selections:TyrePlacementSelectionView Width="{Binding Source={StaticResource Selections.ColumnWidth}}"/>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <UniformGrid Rows="2" Columns="2"/>
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+        </ItemsControl>
+        
+        <!--Track and Temperature-->
+        <StackPanel Orientation="Horizontal" Height="50">
+            <StackPanel Orientation="Horizontal" Width="{Binding Source={StaticResource Selections.ColumnWidth}}" >
+                <TextBlock Text="Track" Foreground="Black"/>
+                <ComboBox 
+                    Name="TracksComboBox"
+                    ItemsSource="{Binding TracksDetailsCollection}" 
+                    SelectionChanged="TracksComboBox_OnSelectionChanged"
+                    DisplayMemberPath="Name" 
+                    Width="{Binding Source={StaticResource Selections.ComboBox.Width}}" 
+                    VerticalAlignment="Center" 
+                    Margin="0 3"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Width="{Binding Source={StaticResource Selections.ColumnWidth}}">
+                <TextBlock Text="Temperature"/>
+                <TextBox 
+                    Width="80" 
+                    Margin="0 3" 
+                    Text="{Binding CurrentSelectionViewModel.SelectedTrackTemperature, UpdateSourceTrigger=PropertyChanged}"
+                    MaxLines="1"
+                    VerticalScrollBarVisibility="Disabled"
+                    HorizontalScrollBarVisibility="Disabled"
+                    TextAlignment="Center"/>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</UserControl>
